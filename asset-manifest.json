@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/GitFinder/static/css/main.10f6ddda.chunk.css",
-    "main.js": "/GitFinder/static/js/main.f1a14d2b.chunk.js",
-    "main.js.map": "/GitFinder/static/js/main.f1a14d2b.chunk.js.map",
-    "runtime-main.js": "/GitFinder/static/js/runtime-main.72fec72a.js",
-    "runtime-main.js.map": "/GitFinder/static/js/runtime-main.72fec72a.js.map",
-    "static/js/2.a4b66560.chunk.js": "/GitFinder/static/js/2.a4b66560.chunk.js",
-    "static/js/2.a4b66560.chunk.js.map": "/GitFinder/static/js/2.a4b66560.chunk.js.map",
-    "index.html": "/GitFinder/index.html",
-    "precache-manifest.55fea79b26828dd47ca4d77ef5767ed0.js": "/GitFinder/precache-manifest.55fea79b26828dd47ca4d77ef5767ed0.js",
-    "service-worker.js": "/GitFinder/service-worker.js",
-    "static/css/main.10f6ddda.chunk.css.map": "/GitFinder/static/css/main.10f6ddda.chunk.css.map",
-    "static/js/2.a4b66560.chunk.js.LICENSE.txt": "/GitFinder/static/js/2.a4b66560.chunk.js.LICENSE.txt",
-    "static/media/About2.png": "/GitFinder/static/media/About2.e47458be.png",
-    "static/media/PageNotFound.png": "/GitFinder/static/media/PageNotFound.2348c282.png",
-    "static/media/home.svg": "/GitFinder/static/media/home.d617763f.svg"
+    "main.css": "/GitFinder/index.html/static/css/main.10f6ddda.chunk.css",
+    "main.js": "/GitFinder/index.html/static/js/main.c003103f.chunk.js",
+    "main.js.map": "/GitFinder/index.html/static/js/main.c003103f.chunk.js.map",
+    "runtime-main.js": "/GitFinder/index.html/static/js/runtime-main.c4d28812.js",
+    "runtime-main.js.map": "/GitFinder/index.html/static/js/runtime-main.c4d28812.js.map",
+    "static/js/2.a4b66560.chunk.js": "/GitFinder/index.html/static/js/2.a4b66560.chunk.js",
+    "static/js/2.a4b66560.chunk.js.map": "/GitFinder/index.html/static/js/2.a4b66560.chunk.js.map",
+    "index.html": "/GitFinder/index.html/index.html",
+    "precache-manifest.2934587fdadd12d8720f77ceabdb7dc8.js": "/GitFinder/index.html/precache-manifest.2934587fdadd12d8720f77ceabdb7dc8.js",
+    "service-worker.js": "/GitFinder/index.html/service-worker.js",
+    "static/css/main.10f6ddda.chunk.css.map": "/GitFinder/index.html/static/css/main.10f6ddda.chunk.css.map",
+    "static/js/2.a4b66560.chunk.js.LICENSE.txt": "/GitFinder/index.html/static/js/2.a4b66560.chunk.js.LICENSE.txt",
+    "static/media/About2.png": "/GitFinder/index.html/static/media/About2.e47458be.png",
+    "static/media/PageNotFound.png": "/GitFinder/index.html/static/media/PageNotFound.2348c282.png",
+    "static/media/home.svg": "/GitFinder/index.html/static/media/home.d617763f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.72fec72a.js",
+    "static/js/runtime-main.c4d28812.js",
     "static/js/2.a4b66560.chunk.js",
     "static/css/main.10f6ddda.chunk.css",
-    "static/js/main.f1a14d2b.chunk.js"
+    "static/js/main.c003103f.chunk.js"
   ]
 }
